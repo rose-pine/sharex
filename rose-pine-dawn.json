@@ -1,0 +1,21 @@
+﻿{
+  "Name": "Rose Pine Dawn",
+  "BackgroundColor": "250, 244, 237",
+  "LightBackgroundColor": "255, 250, 243",
+  "DarkBackgroundColor": "250, 244, 237",
+  "TextColor": "87, 82, 121",
+  "BorderColor": "255, 250, 243",
+  "CheckerColor": "255, 250, 243",
+  "CheckerColor2": "250, 244, 237",
+  "CheckerSize": 15,
+  "LinkColor": "86, 148, 159",
+  "MenuHighlightColor": "242, 233, 222",
+  "MenuHighlightBorderColor": "242, 233, 222",
+  "MenuBorderColor": "250, 244, 237",
+  "MenuCheckBackgroundColor": "215, 130, 126",
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100,
+  "SeparatorLightColor": "255, 250, 243",
+  "SeparatorDarkColor": "255, 250, 243"
+}

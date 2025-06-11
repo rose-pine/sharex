@@ -1,0 +1,21 @@
+﻿{
+  "Name": "Rose Pine",
+  "BackgroundColor": "25, 23, 36",
+  "LightBackgroundColor": "31, 29, 46",
+  "DarkBackgroundColor": "25, 23, 36",
+  "TextColor": "224, 222, 244",
+  "BorderColor": "31, 29, 46",
+  "CheckerColor": "25, 23, 36",
+  "CheckerColor2": "31, 29, 46",
+  "CheckerSize": 15,
+  "LinkColor": "156, 207, 216",
+  "MenuHighlightColor": "31, 29, 46",
+  "MenuHighlightBorderColor": "31, 29, 46",
+  "MenuBorderColor": "25, 23, 36",
+  "MenuCheckBackgroundColor": "235, 188, 186",
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100,
+  "SeparatorLightColor": "38, 35, 58",
+  "SeparatorDarkColor": "38, 35, 58"
+}
